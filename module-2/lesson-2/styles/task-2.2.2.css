@@ -29,5 +29,18 @@ ol, ul {
 li {
   color: purple;
 }
+strong {
+  color:#2b1dc4;
+  background-color:#eaed98;
+
+
+}
+
+
+em{
+  color:coral;
+  background:purple;
+}
+
 
 /* Your code goes above here */
