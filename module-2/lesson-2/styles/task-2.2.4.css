@@ -13,6 +13,10 @@ p strong {
 }
 ul em{
   background-color:darked;
-color:white;
+color:blue;
+}
+ul strong{
+background-color: chocolate;
+color:coral
 }
 /* Your code goes above here */
