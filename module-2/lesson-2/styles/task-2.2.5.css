@@ -4,6 +4,10 @@
   color: red;
 }
 
+
+#pargraph-tag{
+  color:blue;
+
 .font-blue {      /* This is a class */
   color: blue;
 }
@@ -14,4 +18,12 @@
   padding:20px;
   border-radius: 10px;
 }
+.list-container{
+  padding: 30px;
+  background-color: yellow;
+  border:1px solid blue;
+  border-radius: 10px;
+}
+
+
 /* Your code goes above here */
