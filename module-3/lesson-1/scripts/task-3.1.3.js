@@ -1,3 +1,3 @@
-var numberOfButterflies='12';
+var numberOfButterflies= 12;
 
 console.log(butterflies);
