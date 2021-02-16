@@ -10,5 +10,12 @@ var message = greet('Hello', 'Luke');
 /* EXAMPLE */
 
 // ADD YOUR CODE BELOW HERE
+function fullName(firstName,lastName) {
+ return firstName+''+lastName;
+ }
+ var person1=fullName (fullName('Haliema,'Adiem') );
+
+ 
+ console.log(fullName('Haliema,'Adiem') );
 
 // ADD YOUR CODE ABOVE HERE
